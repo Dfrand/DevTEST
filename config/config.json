@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "idajensen14583",
+    "password": "SoFl7912*",
+    "database": "survey_db",
+    "host": "mysql-devdeciderinstance1.c4msrswpxijn.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}

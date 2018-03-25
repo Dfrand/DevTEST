@@ -1,0 +1,29 @@
+#question{
+  height:50px;
+  width:75%;
+  background-color: white;
+  text-decoration-color: black;
+  text-align: center;
+  margin: 0;
+  line-height: 50px;
+  font-size: 24px;
+}
+
+ul{
+  width:75%;
+  position:absolute;
+  left:250px;
+  margin: 0 auto;
+}
+.button{
+  width:50%;
+  height:100px;
+  border: solid 2px white;
+  margin:5px;
+  text-align: center;
+  background-color: firebrick;
+  color: white;
+  list-style: none;
+  line-height: 40px;
+  font-size: 24px;
+}
